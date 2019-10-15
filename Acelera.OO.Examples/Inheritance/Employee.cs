@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Acelera.OO.Examples.Inheritance
 {
-    public class Employee
+    public class Employee   
     {
         public Employee(decimal wage)
         {

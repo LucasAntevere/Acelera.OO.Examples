@@ -19,6 +19,7 @@ namespace Acelera.OO.Examples.Modifiers
             ProtectedId = 10;
             //Name = "Value";
             PublicValue = 150;
+            //PrivateName = "Name";
         }
     }
 }
