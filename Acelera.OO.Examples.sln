@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acelera.OO.Examples", "Acelera.OO.Examples\Acelera.OO.Examples.csproj", "{1D33A569-1A5B-48FF-8E64-CCA432370BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acelera.OO.Examples.II", "Acelera.OO.Examples.II\Acelera.OO.Examples.II.csproj", "{6A79433A-2B33-4CEE-B938-62D24A426968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D33A569-1A5B-48FF-8E64-CCA432370BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D33A569-1A5B-48FF-8E64-CCA432370BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D33A569-1A5B-48FF-8E64-CCA432370BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D33A569-1A5B-48FF-8E64-CCA432370BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A79433A-2B33-4CEE-B938-62D24A426968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A79433A-2B33-4CEE-B938-62D24A426968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A79433A-2B33-4CEE-B938-62D24A426968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A79433A-2B33-4CEE-B938-62D24A426968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5896104-15AA-4F63-A413-430C7794D11D}
+	EndGlobalSection
+EndGlobal
